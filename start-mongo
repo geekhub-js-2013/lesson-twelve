@@ -1,0 +1,2 @@
+#!/bin/bash
+/Users/mcfedr/Downloads/mongodb-osx-x86_64-2.4.9/bin/mongod --dbpath /Users/mcfedr//dev/geekhub/lesson-twelve/data
